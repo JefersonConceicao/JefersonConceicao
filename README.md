@@ -5,6 +5,6 @@ JefersonConceicao/JefersonConceicao is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 
-Desenvolvedor WEB Junior, atuando a mais de um no mercado (Salvador/Bahia)
+Desenvolvedor WEB Junior, um ano de experiência (PHP/JS/REACT-NATIVE)
 
 
