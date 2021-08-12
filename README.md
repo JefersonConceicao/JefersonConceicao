@@ -5,6 +5,6 @@ JefersonConceicao/JefersonConceicao is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 
-Desenvolvedor WEB Junior, um ano de experiência (PHP/JS/REACT-NATIVE)
+Desenvolvedor WEB/Mobile Junior, um ano de experiência (PHP/JS/REACT-NATIVE)
 
 
